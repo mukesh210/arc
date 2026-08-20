@@ -1,0 +1,30 @@
+arc-azure-client/src/test/kotlin/OpenAiChatParametersTest.kt
+  s_644b08cfdcc966::t_2ff9eb5eccf2c1 1-29
+arc-assistants/src/main/kotlin/filters/UseCaseResponseHandler.kt
+  s_644b08cfdcc966::t_db64b58d9f1e06 46,48-51
+arc-azure-client/src/test/kotlin/AzureAIClientTest.kt
+  s_644b08cfdcc966::t_657eb9b0b8d283 65
+  s_644b08cfdcc966::t_cf5e8c74fbac41 80
+  s_644b08cfdcc966::t_b6e5ca4a0a2b6c 21,29
+  s_644b08cfdcc966::t_83a88a0fd2a150 53-64,66-79,81-82
+arc-azure-client/src/main/kotlin/OpenAiChatParameters.kt
+  s_644b08cfdcc966::t_7b2486423b994f 1-15
+arc-azure-client/src/main/kotlin/AzureAIClient.kt
+  s_644b08cfdcc966::t_385274f913619f 275-282
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "4cd763b0bb94932bd8ca9120eadf8cbd6b9468a8",
+  "prompts": {},
+  "sessions": {
+    "s_644b08cfdcc966": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "8cb432af-0b77-471c-b86d-879a7a7258ca",
+        "model": "auto-smart"
+      },
+      "human_author": "Mukesh Prajapati <mukeshsprajapati210@gmail.com>"
+    }
+  }
+}
