@@ -1,0 +1,19 @@
+arc-assistants/src/main/kotlin/filters/UseCaseResponseHandler.kt
+  s_644b08cfdcc966::t_0f0c52003674ae 49
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "c9d6578b845752e7aa10c8ed718216db06250a7b",
+  "prompts": {},
+  "sessions": {
+    "s_644b08cfdcc966": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "8cb432af-0b77-471c-b86d-879a7a7258ca",
+        "model": "auto-smart"
+      },
+      "human_author": "Mukesh Prajapati <mukeshsprajapati210@gmail.com>"
+    }
+  }
+}
