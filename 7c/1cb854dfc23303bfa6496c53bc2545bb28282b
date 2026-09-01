@@ -1,0 +1,19 @@
+arc-assistants/src/main/kotlin/filters/MustFeature.kt
+  s_67cee61c0f3ed7::t_226ed23870952a 20-23,49
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "7c1cb854dfc23303bfa6496c53bc2545bb28282b",
+  "prompts": {},
+  "sessions": {
+    "s_67cee61c0f3ed7": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "97524d59-bff8-420a-9911-94a5643bf2b8",
+        "model": "auto-smart"
+      },
+      "human_author": "Mukesh Prajapati <mukeshsprajapati210@gmail.com>"
+    }
+  }
+}
